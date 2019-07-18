@@ -1,6 +1,7 @@
 # expressCart
 
 ![expressCart](https://raw.githubusercontent.com/mrvautin/expressCart/master/public/images/logo.png)
+![expressCart](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.phoneworld.com.pk%2Fwp-content%2Fuploads%2F2017%2F03%2Fufone-old-logo.jpg&imgrefurl=https%3A%2F%2Fwww.phoneworld.com.pk%2Fufone-reveals-its-redesigned-new-logo%2F&docid=IWokE_KyQdm3EM&tbnid=rb79LtIvr1os5M%3A&vet=10ahUKEwi38cKhyr7jAhXEoVwKHY3eALUQMwhrKAAwAA..i&w=3292&h=1290&safe=strict&bih=937&biw=1920&q=ufone%20logo&ved=0ahUKEwi38cKhyr7jAhXEoVwKHY3eALUQMwhrKAAwAA&iact=mrc&uact=8)
 
 `expressCart` is a fully functional shopping cart built in Node.js (Express, MongoDB) with Stripe, PayPal and Authorize.net payments.
 
